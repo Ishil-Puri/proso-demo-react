@@ -1,0 +1,27 @@
+
+.body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+ .heading {
+    font-size: 2rem;
+    margin: 1rem;
+ }
+  
+
+.btn {
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    font-size: 1rem;
+    background-color: #000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
