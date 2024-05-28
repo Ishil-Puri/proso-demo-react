@@ -25,3 +25,17 @@
     cursor: pointer;
   }
   
+  .screenshots {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex: 2;
+  }
+  
+  .screenshot {
+    margin: 10px;
+    max-width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
